@@ -16,6 +16,7 @@ Test Credentials
 Features in Detail
 License
 Contributing
+
 📖 Project Overview
 
 Tasty Kitchens is a frontend food ordering web application designed to provide users with an easy and interactive way to explore restaurants and order food online.
@@ -48,30 +49,36 @@ Secure login system
 Cookie-based session management
 Protected routes for authenticated users
 Logout functionality
+
 🍴 Restaurant Browsing
 Explore a variety of restaurants
 Search restaurants easily
 Filter restaurants based on preferences
 View restaurant ratings and details
+
 📋 Menu Exploration
 View detailed restaurant menus
 Display food items with images and prices
 Easy-to-understand menu layout
+
 🛒 Shopping Cart
 Add items to cart
 Remove items from cart
 Increase or decrease item quantities
 View total order summary
 Empty cart functionality
+
 📱 Responsive Design
 Fully responsive user interface
 Optimized for desktop, tablet, and mobile devices
 Smooth navigation across all screen sizes
+
 ⚡ Additional Features
 Custom 404 page
 Error handling pages
 Loading spinners
 Image carousel using React Slick
+
 🛠️ Tech Stack
 Technology	Purpose
 React 18.3.1	Frontend library
@@ -85,6 +92,7 @@ js-cookie	Cookie management
 Vitest	Testing framework
 React Testing Library	Component testing
 Node.js & npm	Development environment
+
 📦 Installation
 
 Follow the steps below to run the project locally.
@@ -166,6 +174,7 @@ The cart page allows users to:
 Review selected items
 View total amount
 Continue browsing
+
 📁 Project Structure
 src/
 ├── components/
@@ -220,16 +229,20 @@ src/
 │
 └── setupTests.js
     └── Test configuration
+
+    
 🔧 Available Scripts
 Command	Description
 npm run dev	Starts development server
 npm run build	Creates production build
 npm run preview	Previews production build
 npm test	Runs test cases
+
 🔐 Test Credentials
 Field	Value
 Username	rahul
 Password	rahul@2021
+
 🎨 Features in Detail
 🔑 Authentication System
 
@@ -253,6 +266,7 @@ Search restaurants
 Filter restaurants
 View restaurant details
 Explore menus
+
 🛒 Food Ordering System
 
 Cart functionality allows users to:
@@ -262,6 +276,7 @@ Remove food items
 Update quantities
 View total cost
 Manage cart contents easily
+
 ⚡ User Experience Enhancements
 Loading States
 Displays loading spinners while fetching data
@@ -276,6 +291,7 @@ Optimized UI for all devices
 Icons & Visuals
 Icon-based interface using React Icons
 Carousel slider using React Slick
+
 📝 License
 
 This project was developed for learning and educational purposes.
