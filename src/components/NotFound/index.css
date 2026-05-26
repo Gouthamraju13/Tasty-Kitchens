@@ -1,0 +1,46 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 40px 20px;
+  gap: 16px;
+  background-color: #f8fafc;
+}
+
+.not-found-image {
+  width: 360px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.not-found-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.not-found-subtitle {
+  font-size: 16px;
+  color: #64748b;
+  text-align: center;
+  max-width: 360px;
+}
+
+.go-home-btn {
+  margin-top: 8px;
+  background-color: #f97316;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 32px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.go-home-btn:hover {
+  background-color: #ea6c0a;
+}
