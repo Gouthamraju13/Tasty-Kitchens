@@ -4,6 +4,13 @@ A modern and responsive food ordering web application built with **React.js** an
 
 ---
 
+## 🌐 Live Demo
+
+**Live Application:**  
+https://tasty-kitchens-ruay-q7pg51jut-gouthamraju13s-projects.vercel.app
+
+---
+
 ## 📖 Overview
 
 Tasty Kitchens is a frontend food ordering platform designed to simulate a real-world online food delivery application. The project focuses on delivering a smooth user experience through responsive design, secure authentication, efficient routing, and dynamic cart management.
