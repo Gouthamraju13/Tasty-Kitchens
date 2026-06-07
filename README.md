@@ -277,13 +277,11 @@ Responsive layouts are implemented using:
 
 **Goutham Raju**
 
-Frontend Developer
-
 ---
 
 ## 📄 License
 
-This project was developed for educational and portfolio purposes.
+This project was developed for educational purpose.
 
 ---
 
